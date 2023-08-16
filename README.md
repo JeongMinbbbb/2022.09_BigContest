@@ -106,5 +106,3 @@ https://www.bigcontest.or.kr/points/content.php#ct04
     2. 고객 군집 별 특성에 맞는 메시지 아이디어 제안
 
 ***
-
-### ***thanks***
