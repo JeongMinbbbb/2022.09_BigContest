@@ -16,8 +16,6 @@
     - 유저 번호, 행동 명, 행동 일시 등 4개의 Column
     - 유실된 자료가 있다고 주최측에서 공지한 데이터 **(데이터 결함으로 신뢰성의 문제로 분석에 참고용으로만 사용)**  
 
-https://www.bigcontest.or.kr/points/content.php#ct04
-
 ![빅콘_데이터구조_크기조정](https://user-images.githubusercontent.com/90736934/209518174-63e72a3e-6779-4419-9370-2db226977caf.png)
 
 
