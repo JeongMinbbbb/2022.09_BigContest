@@ -22,7 +22,6 @@
     - 대출을 실행한 고객의 신청서를 분류한 뒤, 신청서 내 추천된 각 대출 상품에 대한 신청여부를 예측
 - 대출 실행 고객의 신청서를 분류할 때, Recall에 더 높은 가중치를 부여한 평가지표 사용
 - 최적의 변수들을 선정하여 XGBoost와 LGBM으로 모델 학습
-![image](https://github.com/JeongMinbbbb/22.09-22.12_BigContest_2nd/assets/130365764/fdbccf07-b38c-435f-9b31-cc438e0f1fb9)
 
 *** 
 ### **분석 결과 및 성과**
