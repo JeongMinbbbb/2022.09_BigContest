@@ -2,6 +2,7 @@
 
 ## 주제 : 앱 사용성 데이터를 통한 대출신청 예측분석
 > 제10회 빅콘테스트 공모전 데이터 분석 분야 퓨처스리그
+***
   
 ### **Data**
  = 2022년 3월 ~ 6월 Data  
@@ -21,7 +22,7 @@
 https://www.bigcontest.or.kr/points/content.php#ct04
 
 ![빅콘_데이터구조_크기조정](https://user-images.githubusercontent.com/90736934/209518174-63e72a3e-6779-4419-9370-2db226977caf.png)
-
+***
 
 ### **분석 목적**
 - 1. 고객 세그멘트별 홈화면 맞춤 메시지 기획
