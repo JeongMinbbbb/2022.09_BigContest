@@ -70,8 +70,6 @@
       <img src="https://github.com/JeongMinbbbb/22.09-22.12_BigContest_10th/assets/130365764/511801e2-6f90-4a83-ab0b-7abb23c5e3b9" alt="image">
     </p>
 
-      ![빅콘_모델구조_크기조정](https://user-images.githubusercontent.com/90736934/209518599-7b2d945f-8f89-4280-949a-77901a465170.png)
-
  
 ## **분석 결과 및 성과**
 1. 모델의 최종 성능 F1-Score : 약 0.43
