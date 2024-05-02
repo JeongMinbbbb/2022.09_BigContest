@@ -14,7 +14,7 @@
     - 예측해야하는 target 변수를 포함한 데이터      
 3. log_data.csv (finda App 로그 정보 )
     - 유저 번호, 행동 명, 행동 일시 등 4개의 Column
-    - 유실된 자료가 있다고 주최측에서 공지한 데이터 **(데이터 결함으로 신뢰성의 문제로 분석에 참고용으로만 사용)**
+    - 유실된 자료가 있다고 주최측에서 공지한 데이터 **(데이터 결함을 고려하여 부분 활용)**
     <p align="left">
       <img src="https://github.com/JeongMinbbbb/22.09-22.12_BigContest_10th/assets/130365764/1124e58a-ef69-4ba1-b15b-6e6dc477063b" alt="image">
     </p>
