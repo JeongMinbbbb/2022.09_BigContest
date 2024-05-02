@@ -19,7 +19,7 @@
     - 유저 번호, 행동 명, 행동 일시 등 4개의 Column
     - 유실된 자료가 있다고 주최측에서 공지한 데이터 **(데이터 결함을 고려하여 부분 활용)**
     <p align="middle">
-      <img src="https://github.com/JeongMinbbbb/22.09-22.12_BigContest_10th/assets/130365764/bcc063d3-1e35-426d-98ca-c02387b5c488" alt="image">
+      <img src="https://github.com/JeongMinbbbb/22.09-22.12_BigContest_10th/assets/130365764/dbbe1cee-3109-4d95-aa31-acac405b0893" alt="image">
     </p>
 
 ## **분석 목적**
@@ -66,6 +66,10 @@
         - (2차) XGBoost, Catboost, LGBM : 예측 성능이 준수하며 해석이 용이함, 앙상블을 적용하기 위해 Boosting 기반 모델 3가지를 사용
     - **모델링 개요**
         - 1차 모델링을 통해 필요 없는 신청서를 제거했기 때문에, 데이터 불균형을 줄일 수 있었음 **[1:19 ==> 1:9]**
+    <p align="middle">
+      <img src="https://github.com/JeongMinbbbb/22.09-22.12_BigContest_10th/assets/130365764/511801e2-6f90-4a83-ab0b-7abb23c5e3b9" alt="image">
+    </p>
+
       ![빅콘_모델구조_크기조정](https://user-images.githubusercontent.com/90736934/209518599-7b2d945f-8f89-4280-949a-77901a465170.png)
 
  
