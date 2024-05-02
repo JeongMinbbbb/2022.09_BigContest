@@ -19,7 +19,7 @@
     - 유저 번호, 행동 명, 행동 일시 등 4개의 Column
     - 유실된 자료가 있다고 주최측에서 공지한 데이터 **(데이터 결함을 고려하여 부분 활용)**
     <p align="middle">
-      <img src="https://github.com/JeongMinbbbb/22.09-22.12_BigContest_10th/assets/130365764/14fc3907-3c50-4018-a3d0-3c4f0671f417" alt="image">
+      <img src="https://github.com/JeongMinbbbb/22.09-22.12_BigContest_10th/assets/130365764/bcc063d3-1e35-426d-98ca-c02387b5c488" alt="image">
     </p>
 
 ## **분석 목적**
